@@ -23,3 +23,13 @@ If you are developing a production application, we recommend using TypeScript wi
 
 1. check whether node modules version, if it is not `run npm install` inside the project folder
 2. `run npm run dev`
+
+group members
+    1.Vidhula Priyamal
+    2.Heshan Dilranga
+    3.Shanilka Iduwara
+    4.Dhanuka Maduranga
+    5.Chamalka Randil
+    6.Prageeth Bandara
+    
+     
